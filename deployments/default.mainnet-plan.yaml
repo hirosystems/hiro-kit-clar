@@ -36,6 +36,11 @@ plan:
             path: contracts/traits/hk-tokens-v2.clar
             anchor-block-only: true
             clarity-version: 2
+        - contract-publish:
+            contract-name: hk-ownable-v1
+            expected-sender: SP2J933XB2CP2JQ1A4FGN8JA968BBG3NK3EKZ7Q9F
+            cost: 2694531
+            path: contracts/traits/hk-ownable-v1.clar
             anchor-block-only: true
             clarity-version: 2
       epoch: "2.4"

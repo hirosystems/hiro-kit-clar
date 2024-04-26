@@ -16,6 +16,11 @@ path = 'contracts/hk-merkle-tree-keccak160-v1.clar'
 clarity_version = 2
 epoch = 2.4
 
+[contracts.hk-events-v1]
+path = 'contracts/hk-events-v1.clar'
+clarity_version = 2
+epoch = 2.4
+
 [contracts.hk-ecc-v1]
 path = 'contracts/hk-ecc-v1.clar'
 clarity_version = 2
