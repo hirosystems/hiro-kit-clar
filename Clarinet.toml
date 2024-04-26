@@ -21,8 +21,10 @@ path = 'contracts/hk-ecc-v1.clar'
 clarity_version = 2
 epoch = 2.4
 
-[contracts.hk-tokens-v1]
-path = 'contracts/traits/hk-tokens-v1.clar'
+[contracts.hk-tokens-v2]
+path = 'contracts/traits/hk-tokens-v2.clar'
+clarity_version = 2
+epoch = 2.4
 clarity_version = 2
 epoch = 2.4
 

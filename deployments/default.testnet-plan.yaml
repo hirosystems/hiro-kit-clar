@@ -30,10 +30,12 @@ plan:
             anchor-block-only: true
             clarity-version: 2
         - contract-publish:
-            contract-name: hk-tokens-v1
+            contract-name: hk-tokens-v2
             expected-sender: ST2J933XB2CP2JQ1A4FGN8JA968BBG3NK3EPXFQFR
             cost: 9890784
-            path: contracts/traits/hk-tokens-v1.clar
+            path: contracts/traits/hk-tokens-v2.clar
+            anchor-block-only: true
+            clarity-version: 2
             anchor-block-only: true
             clarity-version: 2
       epoch: "2.4"
